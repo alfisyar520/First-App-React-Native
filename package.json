@@ -11,9 +11,11 @@
         "emulator-android": "C:/Users/ASUS/AppData/Local/Android/Sdk/emulator/emulator -avd Nexus_5_API_29"
     },
     "dependencies": {
+        "axios": "^0.21.1",
         "jetifier": "^1.6.8",
         "react": "17.0.1",
-        "react-native": "0.64.1"
+        "react-native": "0.64.1",
+        "react-native-svg": "^12.1.1"
     },
     "devDependencies": {
         "@babel/core": "^7.12.9",
@@ -23,6 +25,7 @@
         "eslint": "7.14.0",
         "jest": "^26.6.3",
         "metro-react-native-babel-preset": "^0.64.0",
+        "react-native-svg-transformer": "^0.14.3",
         "react-test-renderer": "17.0.1"
     },
     "jest": {

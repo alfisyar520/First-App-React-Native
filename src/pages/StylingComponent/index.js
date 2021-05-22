@@ -1,6 +1,6 @@
 import React from 'react';
 import {Image, StyleSheet, Text, View} from 'react-native';
-import hp from './img/tech.jpg';
+import hp from '../../assets/image/tech.jpg';
 
 const StylingReactNativeComponent = () => {
     return (
